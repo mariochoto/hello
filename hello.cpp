@@ -38,7 +38,7 @@ int main(int /*argc*/ , char * /*args*/[])
     //lulu
     cout << "" << endl;
 
-	int exitCode = 0;
-	return exitCode;
+	
+	return 0;
 }
 
